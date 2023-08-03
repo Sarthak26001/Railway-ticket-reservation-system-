@@ -1,0 +1,129 @@
+{
+	margin: 0;
+	padding: 0;
+	font-family:  Century Gothic;
+	
+}
+
+header
+{
+	
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('abc.jpg');
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+	
+}
+
+.nav
+{
+	width:100%;
+	height:80px;
+
+	}
+	
+
+
+ul
+{
+	
+	float: left;
+	list-style-type: none;
+	margin-top: 10px;
+	margin-left:-90px;
+	font-size: 20px;
+	font-family: cooper;
+}
+
+ul li
+{
+	display: inline-block;
+}
+
+ul li a
+{
+   text-decoration: none;
+   color: #fff;
+   padding: 5px 20px;
+   border: 1px solid transparent;  
+   transition: 0.6s ease;
+}   
+ul li a:hover
+{ 
+   background-color: red;
+   color: #000;
+}
+
+.logo
+{
+	margin-left:-60px;
+	margin-top:10px;
+	float:left;
+	width: 0px;
+	
+}
+
+ul li.active a
+{
+   background-color: red;
+   color: #000;
+}
+
+.main
+{
+	max-width:1200px;
+	margin:auto;
+}
+
+.title
+{
+    position: absolute;
+	font-color: yewllow;
+    font-family: algerian;
+	text-align: left;
+	font-size: 20;
+	margin-left: 100px;
+	top: 80%;
+    left: 40%;
+    transform: translate(-50%,-50%);
+}
+
+.title h1
+{
+   color: yellow; 
+ 	font-size: 40px;
+	
+
+}
+.btn
+{
+	top: 80%;
+    left: 10%;
+	font-size: 25px;
+	font-family: engravers mt;
+	color: white;
+	margin: -5px;
+	margin-left: 10px;
+	padding: 7px 22px;
+	text-decoration: none;
+	border: 5px solid coral;
+	border-radius: 25px;
+}
+.btn-search
+{
+	background: black;
+}
+.btn-book:hover
+{
+	background: black;
+	transition: .5s;
+}
+
+
+	
+	
+
+
+	
+
+	

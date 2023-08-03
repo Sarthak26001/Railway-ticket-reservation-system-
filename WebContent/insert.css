@@ -1,0 +1,41 @@
+@charset "ISO-8859-1";
+
+
+#sub
+  {
+	  width: 170px;
+	  padding: 7px;
+	  color:black;
+	  background:red;
+	  font-size: 25px;
+	  font-family: latin;
+	  font-style: bold;
+	  font-weight: 600;
+	  border:none;
+	  border-radius: 3px;
+	  outline:0;
+  }
+.title
+{
+	margin-left: 100px;
+	top:30%;
+	left:60%;
+}
+#name
+{
+		margin-left: 100px;
+		position:center;
+		align:center;
+		top:30%;
+	left:60%;
+	width: 300px;
+	border: none;
+	border-radius: 5px;
+	outline: 0;
+	padding: 7px;
+	color:yellow;
+	style:bold;
+	font-size:20px;
+	background:black;
+	align:center;
+}

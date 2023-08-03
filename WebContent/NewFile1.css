@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+
+
+#subm
+  {
+	  width: 170px;
+	  padding: 7px;
+	  color: black;
+	  background:cyan;
+	  font-size: 20px;
+	  font-family: cooper;
+	  font-style: bold;
+	  font-weight: 600;
+	  border:none;
+	  border-radius: 3px;
+	  outline:0;
+  }
+  
+  

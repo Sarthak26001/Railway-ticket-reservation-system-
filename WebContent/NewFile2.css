@@ -1,0 +1,25 @@
+@charset "ISO-8859-1";
+body
+{
+	background-image: url('123.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+}
+
+
+
+#book
+  {
+	  width: 170px;
+	  padding: 7px;
+	  color: yellow;
+	  background:black;
+	  font-size: 20px;
+	  font-family: elephant;
+	  font-style: bold;
+	  font-weight: 600;
+	  border:none;
+	  border-radius: 3px;
+	  outline:0;
+  }

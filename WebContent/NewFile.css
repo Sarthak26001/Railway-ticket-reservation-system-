@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+
+ #subm
+  {
+	  width: 200px;
+	  padding: 7px;
+	  font-size: 16px;
+	  font-family: sans-serif;
+	  font-style: italic;
+	  font-weight: 600;
+	  border:none;
+	  border-radius: 3px;
+	  outline:0;
+  }

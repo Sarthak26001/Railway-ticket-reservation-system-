@@ -1,0 +1,39 @@
+@charset "ISO-8859-1";
+
+body
+{
+	background-image: url('1234.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+}
+
+#block
+{
+	width: 250px;
+	border: none;
+	border-radius: 5px;
+	outline: 0;
+	padding: 7px;
+	color:yellow;
+	style:bold;
+	font-size:20px;
+	background:black;
+	align:center;
+}
+
+#block1
+  {
+	  width: 170px;
+	  padding: 7px;
+	  color: yellow;
+	  background:black;
+	  font-size: 20px;
+	  font-family: latin;
+	  font-style: bold;
+	  font-weight: 600;
+	  border:none;
+	  border-radius: 3px;
+	  outline:0;
+  }
+  

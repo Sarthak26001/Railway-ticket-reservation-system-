@@ -1,0 +1,61 @@
+@charset "ISO-8859-1";
+
+.title
+{
+    position: absolute;
+	font-color: yewllow;
+    font-family: algerian;
+	text-align: left;
+	font-size: 20;
+	margin-left: 100px;
+	top: 60%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.btn
+{
+	font-size: 25px;
+	font-family: engravers mt;
+	color: white;
+	margin: 200px;
+	margin-left: -150px;
+		
+	padding: 7px 22px;
+	text-decoration: none;
+	border: 5px solid cyan;
+	border-radius: 25px;
+}
+.btn-insert
+{
+	float:top;
+	background: black;
+	margin-top: 10px;
+	margin-left: -150px;
+	margin-bottom: 190px;
+	align:center;
+}
+
+.btn-insert:hover
+{
+	background: red;
+	transition: .5s;
+	
+}
+.btn-update:hover
+{
+	background: red;
+	transition: .5s;
+	
+}
+.btn-delete:hover
+{
+	background:red;
+	transition: .5s;
+}
+.btn-log:hover
+{
+	background: red;
+	transition: .5s;
+		
+}
